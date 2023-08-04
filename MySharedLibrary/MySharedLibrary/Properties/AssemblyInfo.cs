@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyKeyFile("M:\\Simplilearn\\mphasis\\day20\\Assign23\\fresh.snk")]
+[assembly: AssemblyKeyFile("M:\\Simplilearn\\mphasis\\day20\\Assign23\\MySharedLibrary\\MySharedLibrary\\fresh.snk")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
