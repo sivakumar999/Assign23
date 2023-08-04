@@ -1,0 +1,6 @@
+M:\Assign\MySharedLibrary\SharedLib\bin\Debug\SharedLib.dll
+M:\Assign\MySharedLibrary\SharedLib\bin\Debug\SharedLib.pdb
+M:\Assign\MySharedLibrary\SharedLib\obj\Debug\MysharedFolder.csproj.AssemblyReference.cache
+M:\Assign\MySharedLibrary\SharedLib\obj\Debug\MysharedFolder.csproj.CoreCompileInputs.cache
+M:\Assign\MySharedLibrary\SharedLib\obj\Debug\SharedLib.dll
+M:\Assign\MySharedLibrary\SharedLib\obj\Debug\SharedLib.pdb

@@ -1,6 +1,0 @@
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
-M:\Simplilearn\mphasis\day20\Assign23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb

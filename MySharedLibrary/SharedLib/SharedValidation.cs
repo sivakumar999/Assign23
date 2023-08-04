@@ -5,9 +5,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace MySharedLibrary
+namespace MysharedFolder
 {
-    public class Utility
+    public class SharedValidation
     {
 
         public static bool IsValidEmail(string email)
@@ -19,6 +19,6 @@ namespace MySharedLibrary
             string emailPattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
             return Regex.IsMatch(email, emailPattern);
         }
-    }
 
+    }
 }

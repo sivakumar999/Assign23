@@ -1,0 +1,6 @@
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\bin\Debug\SharedLib.dll
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\bin\Debug\SharedLib.pdb
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\obj\Debug\SharedLib.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\obj\Debug\SharedLib.dll
+M:\Simplilearn\mphasis\day20\Assign\SharedLib\SharedLib\obj\Debug\SharedLib.pdb

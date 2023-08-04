@@ -1,31 +1,32 @@
-﻿using System;
+﻿using SharedLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MySharedLibrary;
 
 namespace MainApp
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void EmailValidation(string email)
         {
-            Console.Write("Enter your email address: ");
-            string email = Console.ReadLine();
-
-            if (Utility.IsValidEmail(email))
+            if (SharedValidation.IsValidEmail(email))
             {
-                Console.WriteLine("Valid email address.");
+                Console.WriteLine("Valid email.");
             }
             else
             {
-                Console.WriteLine("Invalid email address.");
+                Console.WriteLine("Invalid email.");
             }
+        }
+        static void Main(string[] args)
+        { 
+            Console.Write("Enter Email ID for validation:");
+            string em = Console.ReadLine();
+            EmailValidation(em);
 
             Console.ReadKey();
         }
     }
-
-
 }

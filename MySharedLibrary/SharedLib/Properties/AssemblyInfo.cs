@@ -5,15 +5,14 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MySharedLibrary")]
+[assembly: AssemblyTitle("SharedLib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MySharedLibrary")]
+[assembly: AssemblyProduct("SharedLib")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyKeyFile("M:\\Simplilearn\\mphasis\\day20\\Assign23\\MySharedLibrary\\MySharedLibrary\\fresh.snk")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -21,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1d999235-edd1-4c08-bc47-6e229b012425")]
+[assembly: Guid("165faa50-5fcc-4393-867c-e61394bbee37")]
 
 // Version information for an assembly consists of the following four values:
 //

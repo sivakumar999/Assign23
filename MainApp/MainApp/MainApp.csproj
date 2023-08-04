@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27BC823B-D751-491C-BFF1-5FDF84ABCC73}</ProjectGuid>
+    <ProjectGuid>{976FB28E-C9F3-4D4A-BAE9-1ED896056A77}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MainApp</RootNamespace>
     <AssemblyName>MainApp</AssemblyName>
@@ -33,9 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MySharedLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0330f3b994345da3, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll</HintPath>
+    <Reference Include="SharedLib">
+      <HintPath>..\..\SharedLib\SharedLib\bin\Debug\SharedLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
